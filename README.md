@@ -16,8 +16,8 @@ Added the Jupiter book above to present the code along with the pdf that contain
 <p>
 ->Import the above code in colab <br>
 ->Allow the access to the drive <br>
-->Make a folder the drive  name as  Wav2Lip <br>
-->Add the following file in the file [wav2lip_gan.pht , input_video.mp4 ,input_audio.wav] <br>
+->Make a folder in the drive  named as  Wav2Lip <br>
+->Add the following file in the file Wav2Lip [wav2lip_gan.pht , input_video.mp4 ,input_audio.wav] <br>
 ->Mount the drive on the colab with given code <br>
 ->Clone the repo  [https://github.com/Rudrabha/Wav2Lip] with the help of the code inside . <br>
 ->Make changes to requirements.txt in the Wav2Lip  with given in my repo  [github.com/darkgrid/OpenInAppAssigment1] <br>
