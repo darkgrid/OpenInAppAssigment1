@@ -13,6 +13,7 @@ added the video sample used as input , the audio same used as input  and the res
 Added the Jupiter book above to present the code along with the pdf that contained the Assignment . 
 
 <h1>Instruction to use the code </h1>
+<p>
 ->Import the above code in colab 
 ->Allow the access to the drive 
 ->Make a folder the drive  name as  Wav2Lip 
@@ -20,7 +21,8 @@ Added the Jupiter book above to present the code along with the pdf that contain
 ->Mount the drive on the colab with given code 
 ->Clone the repo  [https://github.com/Rudrabha/Wav2Lip] with the help of the code inside . 
 ->Make changes to requirements.txt in the Wav2Lip  with given in my repo  [github.com/darkgrid/OpenInAppAssigment1]
--> follow along the code . 
+-> follow along the code .
+</p>
 --------------------------------------------------------------------
 
 thank you for reading :) 
